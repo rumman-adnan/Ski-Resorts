@@ -3,8 +3,8 @@
 # Objective
 This dataset is provided by Maven Analytics. Its a part of Maven slopes challenge. you need to build a dashboard to help skiers find their ideal destination
 This dataset contain 2 tables
-The resort table containsinformation of 499 ski resorts around the world, including their location, lifts, prices and ski season
-The snow table contanis supplemental data on the surface of earth covered by snow for each month in 2022 by latitude and longitude.
+- The resort table containsinformation of 499 ski resorts around the world, including their location, lifts, prices and ski season
+- The snow table contanis supplemental data on the surface of earth covered by snow for each month in 2022 by latitude and longitude.
 
 # Deliverables
 You can book your favourite resort based on-
